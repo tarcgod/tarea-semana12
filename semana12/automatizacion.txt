@@ -1,0 +1,15 @@
+1. ¿Qué evento activa la automatización?
+El flujo en n8n se activará cuando una causa registrada (por ejemplo, una petición de pavimentación o bacheo en una vía crítica de Santa Marta) alcance el límite o meta mínima de apoyos digitales (votos) requeridos por la comunidad.
+
+2. ¿Qué mensaje se envía?
+Una vez alcanzada la meta, el sistema enviará un mensaje automático a un canal de Telegram de la comunidad o veedores que dirá:
+Meta de apoyos alcanzada
+La causa '[Título de la Causa]' ha reunido las firmas necesarias de los vecinos.
+El sistema ha generado automáticamente el documento PDF formal de reclamación y está listo para ser descargado y radicado ante la entidad competente de la malla vial."
+
+3. ¿Qué información no debe enviarse por seguridad?
+Para proteger la privacidad y seguridad de la comunidad, el mensaje de Telegram no debe contener:
+- Datos personales de los ciudadanos que apoyaron (como nombres completos, números de cédula o correos electrónicos).
+- Información de contacto privada de quien creó la causa.
+- Direcciones exactas de domicilio de los vecinos que firmaron.
+- Credenciales, tokens de API o contraseñas de administración de la plataforma.

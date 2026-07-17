@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología es un puente increíble para que la comunidad deje de ser un actor pasivo y empiece a
+liderar el cambio en su propio entorno. Al diseñar soluciones prácticas, como el reporte de daños en las vías y baches en las
+calles, entendí la importancia de estructurar bases de datos claras y aplicar metodologías ágiles para resolver problemas reales
+paso a paso. También vi cómo herramientas sencillas de automatización como n8n y canales de comunicación como Telegram facilitan
+que la información llegue rápido y de forma transparente a los vecinos, sin necesidad de procesos manuales lentos. Lo más valioso
+fue entender que para que estas plataformas funcionen, debemos ganarnos la confianza de la gente protegiendo siempre sus datos
+personales y garantizando que sus reportes se conviertan en peticiones formales y efectivas. En resumen, la tecnología bien 
+aplicada simplifica la veeduría ciudadana y nos demuestra que organizarnos como vecinos para mejorar nuestra ciudad es mucho
+más fácil y rápido de lo que pensábamos.

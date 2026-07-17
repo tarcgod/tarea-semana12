@@ -1,0 +1,9 @@
+1. Un ciudadano crea un reporte detallando un daño vial prioritario (como un hueco crítico) subiendo una foto y su ubicación GPS.
+
+2. El reporte y sus coordenadas geográficas quedan guardados y registrados de forma segura en la base de datos de la plataforma.
+
+3. Otros miembros de la comunidad ingresan a la aplicación, ven el reporte en el mapa y deciden apoyarlo con un solo clic.
+
+4. El sistema registra cada voto, actualiza el contador de apoyos en tiempo real y, al alcanzar una meta de firmas, activa una automatización.
+
+5. El sistema recopila los datos del reporte, la ubicación y el número de firmas comunitarias para generar automáticamente un documento PDF formal listo para ser radicado ante la entidad pública encargada de la malla vial.

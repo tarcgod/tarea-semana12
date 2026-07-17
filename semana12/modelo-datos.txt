@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id (identificador único de la causa)
+- titulo (nombre corto o resumen del problema a solucionar)
+- descripcion (explicación detallada del problema vial o comunitario)
+- fecha (fecha de registro de la petición)
+
+Propósito:
+Esta entidad sirve para registrar y almacenar de manera estructurada cada una de las problemáticas de infraestructura vial o necesidades que los ciudadanos reportan en la plataforma, sirviendo como el elemento principal sobre el cual la comunidad interactúa.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id (identificador único de cada firma o respaldo)
+- causa_id (vínculo que conecta el apoyo con la causa correspondiente)
+- nombre (nombre o pseudónimo del ciudadano que respalda la petición)
+- fecha (fecha y hora exacta en la que se registra el voto)
+
+Propósito:
+Sirve para almacenar de forma ordenada cada firma o respaldo digital que los vecinos otorgan a un reporte o causa activa. Esto permite cuantificar el interés colectivo para priorizar las necesidades viales más urgentes de la comunidad antes de generar el documento final.
